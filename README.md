@@ -53,7 +53,7 @@ Certifique-se de ter as seguintes ferramentas instaladas na sua máquina:
 ## Como Rodar o Projeto Localmente
 1. Clone este repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone (https://github.com/Ppedro-Leal/Galeria_Fotos.git)
    ```
 
 2. Navegue até o diretório do projeto:
