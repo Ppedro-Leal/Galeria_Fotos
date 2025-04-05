@@ -41,10 +41,10 @@ src/
 ```
 
 ## Tecnologias Utilizadas
-- **React**: Framework JavaScript para construção da interface do usuário.
-- **TailwindCSS**: Framework para estilização responsiva e moderna.
-- **TypeScript**: Superset do JavaScript que adiciona tipagem estática ao código.
-
+- **React**
+- **TailwindCSS**
+- **TypeScript**
+  
 ## Pré-requisitos
 Certifique-se de ter as seguintes ferramentas instaladas na sua máquina:
 - Node.js (versão mais recente)
@@ -76,12 +76,3 @@ Certifique-se de ter as seguintes ferramentas instaladas na sua máquina:
    http://localhost:3000
    ```
 
-
----
-
-## 📖 **Possíveis Melhorias Futuras**  
-- Integração com APIs públicas como Unsplash ou Pexels.  
-- Adicionar sistema de upload para que usuários enviem suas próprias fotos.  
-- Funcionalidade de favoritos para salvar imagens.  
-
----
